@@ -30,4 +30,4 @@ foreach (var periferico in listaPerifericos)
     Console.WriteLine("{0}: {1} {2}", periferico.Marca, periferico.ObtenerTipo(), periferico.Precio);
 }
 
-Console.WriteLine("Finalizado aqui y ahora");
+Console.WriteLine("Finalizado aqui y ahora!!!");
