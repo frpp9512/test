@@ -1,0 +1,15 @@
+D:\Dev\test\leo-test\bin\Debug\net7.0\leo-test.exe
+D:\Dev\test\leo-test\bin\Debug\net7.0\leo-test.deps.json
+D:\Dev\test\leo-test\bin\Debug\net7.0\leo-test.runtimeconfig.json
+D:\Dev\test\leo-test\bin\Debug\net7.0\leo-test.dll
+D:\Dev\test\leo-test\bin\Debug\net7.0\leo-test.pdb
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.csproj.AssemblyReference.cache
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.AssemblyInfoInputs.cache
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.AssemblyInfo.cs
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.csproj.CoreCompileInputs.cache
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.dll
+D:\Dev\test\leo-test\obj\Debug\net7.0\refint\leo-test.dll
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.pdb
+D:\Dev\test\leo-test\obj\Debug\net7.0\leo-test.genruntimeconfig.cache
+D:\Dev\test\leo-test\obj\Debug\net7.0\ref\leo-test.dll
