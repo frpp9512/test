@@ -27,5 +27,5 @@ var listaPerifericos = new List<Perfierico>
 
 foreach (var periferico in listaPerifericos)
 {
-    Console.WriteLine("{0}: {1}", periferico.Marca, periferico.ObtenerTipo());
+    Console.WriteLine("{0}: {1} {2}", periferico.Marca, periferico.ObtenerTipo(), periferico.Precio);
 }
